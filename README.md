@@ -13,10 +13,10 @@ diverifikasi dan diangkat ke dalam produk sebagai rujukan data.
 
 ## Peran ke depan
 
-| Tahap | Peran |
-| ----- | ---- |
-| Sekarang | Kerangka dan catatan acuan konten |
-| Berikutnya | Artikel disusun dari dokumen di sini |
+| Tahap       | Peran                                                              |
+| ----------- | ------------------------------------------------------------------ |
+| Sekarang    | Kerangka dan catatan acuan konten                                  |
+| Berikutnya  | Artikel disusun dari dokumen di sini                               |
 | Di aplikasi | Artikel menjadi acuan sumber data yang ditampilkan / dirujuk klien |
 
 Alur singkat: **dokumen acuan → artikel → sumber data di apps**.
@@ -66,3 +66,4 @@ Kosong (`[ ]`) = belum.
 - [ ] [Sejarah Kesultanan Sambas 1675 M](https://id.scribd.com/presentation/442714707/54243-kesultanan-sambas-pptx)
 - [ ] [Statistik Kabupaten Sambas 2024](https://id.scribd.com/document/785904309/Kabupaten-Sambas-Dalam-Angka-2024)
 - [ ] [Sejarah Islam di Kesultanan Sambas](https://id.scribd.com/presentation/433132429/Proposal-Penelitian-Sejarah)
+- [ ] [222 Kosa Kata](https://github.com/januardi211-max/222-kosa-kata)
